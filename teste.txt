@@ -1,1 +1,18 @@
 teste
+
+git clone https://github.com/giancarlobertoldi/projetofinal.git
+
+atualizar allterações
+git add .
+
+criar uma nova versão
+git commit -m "mensagem da nova versão"
+
+enviar
+git push origin master
+
+
+faculdade:
+
+git pull
+
